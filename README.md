@@ -2,7 +2,7 @@
 
 This repository contains the final project in the course "Learning Data Analysis with Python" on the Dicoding platform, with the scope of analysis and creating dashboards as a medium for conveying data analysis results interactively using bike sharing datasets. This project includes several data analysis processes and data visualization techniques. The dashboard can be accessed via the following link.
 
-https://bike-sharingdash.streamlit.app/
+https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fe4gbass9znjbtbz8qj586i.streamlit.app%2F
 
 ## File Structures
 ```
