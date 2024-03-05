@@ -2,3 +2,7 @@ pandas
 matplotlib
 seaborn
 streamlit
+datetime
+plotly.express
+KMeans
+StandardScaler
