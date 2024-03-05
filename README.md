@@ -1,6 +1,8 @@
-# Bike Project
+# Bike Sharing Data Analysis Project
 
-This repository contains the final project for the "Belajar Analisis Data Dengan Python" course on Dicoding, focusing on analysis and dashboard creation using the bike sharing dataset. The project involves data wrangling, exploratory data analysis (EDA), and data visualization techniques. Additionally, a dashboard was created using Streamlit, accessible via the provided link. https://bike-sharingdash.streamlit.app/
+This repository contains the final project in the course "Learning Data Analysis with Python" on the Dicoding platform, with the scope of analysis and creating dashboards as a medium for conveying data analysis results interactively using bike sharing datasets. This project includes several data analysis processes and data visualization techniques. The dashboard can be accessed via the following link.
+
+https://bike-sharingdash.streamlit.app/
 
 ## File Structures
 ```
